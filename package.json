@@ -1,7 +1,7 @@
 {
   "name": "test-deps",
   "main": "./lib/test-deps",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
