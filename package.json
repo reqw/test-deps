@@ -1,0 +1,19 @@
+{
+  "name": "test-deps",
+  "main": "./lib/test-deps",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "test-deps:toggle"
+  },
+  "repository": "https://github.com/reqw/test-deps",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "luaparse": "github:dapetcu21/luaparse"
+  }
+}
