@@ -13,6 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "luaparse": "dapetcu21/luaparse"
+    "luaparse": "git+https://github.com/dapetcu21/luaparse.git"
   }
 }
